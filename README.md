@@ -1,4 +1,4 @@
 # Demo
 This my first repository
 <br>
-Author - Uday Patil
+Author - Uday (Thengade) Patil
